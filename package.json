@@ -1,0 +1,18 @@
+{
+  "name": "derivablesjs",
+  "version": "1.0.0",
+  "description": "Derivables JS excercises for Lemoncode",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gianmarco Gagliardi",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
